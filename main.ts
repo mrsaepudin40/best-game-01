@@ -1,4 +1,6 @@
-// Chopstick Catch — best-game-01 entry program (Node 22, standard library only).
+// Chopstick Catch v2 — best-game-01 entry program (Node 22, standard library only).
+// v2 rebuild: 3 realms, 3 bosses, 12 upgrades, 10 relics, missions + endless mode,
+// deterministic ?shot= scenes (title / play / boss / victory) in shots.json.
 // It hands the game in: copies game/ and screenshots/ from beside this file into
 // the output directory and writes dossier.json there with the vendored make.fun
 // library. Outside the grader, MAKEFUN_OUTPUT_DIR stands in for /output:
